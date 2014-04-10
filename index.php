@@ -7,6 +7,15 @@
     <link href="_/css/bootstrap.min.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
     <script src="_/js/respond.js"></script>
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="_/js/jquery.cycle.lite.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+      $('.slideshow').cycle({
+      fx: 'fade' //  transition type: fade, scrollUp, shuffle.
+      });
+    });
+    </script>
   </head>
   <body>
   <!-- section 1 - nav -->
@@ -14,12 +23,7 @@
     <div class="col-lg-12">
       <header class="clearfix">
         <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-          <div class="navbar-inner">
-            
-              
-           
-          </div>
-
+        <img class="img-responsive pull-left" src="images/assets/pastenes-logo-100x50.png">
           <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse">
               <span class="sr-only">Toggle navigaiton</span>
@@ -29,7 +33,7 @@
             </button>
           </div>
           <div class="collapse navbar-collapse" id="collapse">
-          <a class="brand" href="index.php"><img src="images/assets/pastenes-logo-100x50.png"></a>
+          
             <ul class="nav navbar-nav pull-right">
               <li class="active"><a href="index.php">Home</a></li>
               <li><a href="#">Contact</a></li>
@@ -89,9 +93,17 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-12 col-md-6">
+          <div class="slideshow">
           <a href="#">
             <img class="img-responsive" src="images/screens/weis_screenshot_400x211-01.png" alt="Health insurance web site">
           </a>
+          <a href="#">
+            <img class="img-responsive" src="images/screens/weis_screenshot_400x211-02.png" alt="Health insurance web site">
+          </a>
+          <a href="#">
+            <img class="img-responsive" src="images/screens/weis_screenshot_400x211-03.png" alt="Health insurance web site">
+          </a>
+          </div>
         </div>
 
         <div class="col-xs-12 col-md-6">
@@ -109,7 +121,7 @@
     </div>
   </section>
 
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+
     <script src="_/js/bootstrap.min.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>

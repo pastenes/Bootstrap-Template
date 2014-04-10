@@ -976,6 +976,16 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/images\/assets\/pastenes-logo-100x50.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3347,
+		"inputAbbreviatedPath": "\/images\/assets\/pastenes-logo-100x50.png",
+		"outputAbbreviatedPath": "\/images\/assets\/pastenes-logo-100x50.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/backgrounds\/glenn-jackson-1024x512.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -983,6 +993,26 @@
 		"initialSize": 93266,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/glenn-jackson-1024x512.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/glenn-jackson-1024x512.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/backgrounds\/glenn-jackson-2000x1000.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142010,
+		"inputAbbreviatedPath": "\/images\/backgrounds\/glenn-jackson-2000x1000.jpg",
+		"outputAbbreviatedPath": "\/images\/backgrounds\/glenn-jackson-2000x1000.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/backgrounds\/glenn-jackson-2000x500.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70025,
+		"inputAbbreviatedPath": "\/images\/backgrounds\/glenn-jackson-2000x500.jpg",
+		"outputAbbreviatedPath": "\/images\/backgrounds\/glenn-jackson-2000x500.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -996,6 +1026,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/backgrounds\/ross-island-bridge-2000x736.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 434912,
+		"inputAbbreviatedPath": "\/images\/backgrounds\/ross-island-bridge-2000x736.jpg",
+		"outputAbbreviatedPath": "\/images\/backgrounds\/ross-island-bridge-2000x736.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/backgrounds\/self-double-exposure-1024x717.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1006,6 +1046,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/backgrounds\/self-double-exposure-2000x1302.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 401082,
+		"inputAbbreviatedPath": "\/images\/backgrounds\/self-double-exposure-2000x1302.jpg",
+		"outputAbbreviatedPath": "\/images\/backgrounds\/self-double-exposure-2000x1302.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/backgrounds\/st-johns-bridge-1024x576.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1013,6 +1063,16 @@
 		"initialSize": 186577,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/st-johns-bridge-1024x576.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/st-johns-bridge-1024x576.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/backgrounds\/st-johns-bridge-2000x1125.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 375382,
+		"inputAbbreviatedPath": "\/images\/backgrounds\/st-johns-bridge-2000x1125.jpg",
+		"outputAbbreviatedPath": "\/images\/backgrounds\/st-johns-bridge-2000x1125.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
