@@ -6,16 +6,8 @@
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,300,200,100' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.min.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
-    <script src="_/js/respond.js"></script>
-        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
-    <script type="text/javascript" src="_/js/jquery.cycle.lite.js"></script>
-    <script type="text/javascript">
-    $(document).ready(function() {
-      $('.slideshow').cycle({
-      fx: 'fade' //  transition type: fade, scrollUp, shuffle.
-      });
-    });
-    </script>
+
+
   </head>
   <body>
   <!-- section 1 - nav -->
@@ -93,18 +85,31 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-12 col-md-6">
-          <div class="slideshow">
-          <a href="#">
-            <img class="img-responsive" src="images/screens/weis_screenshot_400x211-01.png" alt="Health insurance web site">
-          </a>
-          <a href="#">
-            <img class="img-responsive" src="images/screens/weis_screenshot_400x211-02.png" alt="Health insurance web site">
-          </a>
-          <a href="#">
-            <img class="img-responsive" src="images/screens/weis_screenshot_400x211-03.png" alt="Health insurance web site">
-          </a>
+           <div id="carousel-item1" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators inverse">
+                <li data-target="#carousel-item1" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-item1" data-slide-to="1"></li>
+                <li data-target="#carousel-item1" data-slide-to="2"></li>
+              </ol>
+            <div class="carousel-inner">
+              <div class="item active">
+                <a href="#">
+                  <img class="img-responsive" src="images/screens/weis_screenshot_400x211-01.png" alt="Health insurance web site">
+                </a>
+              </div>
+              <div class="item">
+                <a href="#">
+                  <img class="img-responsive" src="images/screens/weis_screenshot_400x211-02.png" alt="Health insurance web site">
+                </a>
+              </div>
+              <div class="item">
+                <a href="#">
+                  <img class="img-responsive" src="images/screens/weis_screenshot_400x211-03.png" alt="Health insurance web site">
+                </a>
+              </div>
           </div>
         </div>
+      </div>
 
         <div class="col-xs-12 col-md-6">
           <h3>Portfolio Item 1</h3>
@@ -121,7 +126,8 @@
     </div>
   </section>
 
-
+    <script src="_/js/respond.js"></script>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="_/js/bootstrap.min.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
