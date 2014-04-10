@@ -7,7 +7,6 @@
     <link href="_/css/bootstrap.min.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
 
-
   </head>
   <body>
   <!-- section 1 - nav -->
@@ -57,13 +56,13 @@
         </div>
 
         <div class="col-xs-12 col-md-4">
-          <a href="#item1" class="thumbnail">
+          <a href="#item2" class="thumbnail">
             <img src="images/screens/gresham_screenshot_400x211-01.png" alt="Custom WordPress Theme">
           </a>
         </div>
 
         <div class="col-xs-12 col-md-4">
-          <a href="#item1" class="thumbnail">
+          <a href="#item3" class="thumbnail">
             <img src="images/screens/pastenes_screenshot_400x211-01.png" alt="This site's description">
           </a>
         </div>
@@ -81,6 +80,7 @@
   </section>
 
   <!-- section 4 - item1 -->
+  <div id="item1"></div>
   <section id="item">
     <div class="container">
       <div class="row">
@@ -121,10 +121,15 @@
           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </div>
       </div>
-
-      </div>
     </div>
   </section>
+
+
+  <footer class="row">
+        <p><small>Copyright <a href="#">&copy; Richard Pastenes</a></small></p>
+
+        <a href="#" class="go-top"><span class="glyphicon glyphicon-arrow-up"></span></a>
+  </footer>
 
     <script src="_/js/respond.js"></script>
     <script src="http://code.jquery.com/jquery-latest.min.js"></script>

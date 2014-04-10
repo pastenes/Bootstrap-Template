@@ -1,3 +1,5 @@
+// Parallax effect
+
 $(document).ready(function(){
    // cache the window object
    $window = $(window);
@@ -22,3 +24,40 @@ $(document).ready(function(){
 
 /* Create HTML5 element for IE */
 document.createElement("section");
+
+
+// Auto scroll smoothly
+ $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+});
+
+
+// Back to top button
+$(document).ready(function() {
+    //Show or hide button
+    $(window).scroll(function() {
+      if ($(this).scrollTop() > 200) {
+        $('.go-top').fadeIn(200);
+      } else {
+          $('.go-top').fadeOut(200)
+        }
+    });
+
+    // Animete scroll to top
+    $('.go-top').click(function(e) {
+      e.preventDefault();
+      
+      $('html, body').animate({scrollTop: 0}, 300);
+    })
+})
