@@ -86,7 +86,7 @@
       <div class="row">
         <div class="col-xs-12 col-md-6">
            <div id="carousel-item1" class="carousel slide" data-ride="carousel">
-              <ol class="carousel-indicators inverse">
+              <ol class="carousel-indicators">
                 <li data-target="#carousel-item1" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel-item1" data-slide-to="1"></li>
                 <li data-target="#carousel-item1" data-slide-to="2"></li>
@@ -124,7 +124,59 @@
     </div>
   </section>
 
+  <!-- section 5 - inter2 -->
+  <section id="inter2" data-speed="6" data-type="background">
+    <div class="container">
+      <div class="row-fluid">
+        </div>
+      </div>
+  </section>
 
+  <!-- section 6 - item2 -->
+  <div id="item2"></div>
+  <section id="item">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-md-6">
+          <h3>Portfolio Item 2</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+
+        <div class="col-xs-12 col-md-6">
+           <div id="carousel-item2" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-item2" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-item2" data-slide-to="1"></li>
+                <li data-target="#carousel-item2" data-slide-to="2"></li>
+              </ol>
+            <div class="carousel-inner">
+              <div class="item active">
+                <a href="#">
+                  <img class="img-responsive" src="images/screens/gresham_screenshot_400x211-01.png" alt="Custom WordPress Theme">
+                </a>
+              </div>
+              <div class="item">
+                <a href="#">
+                  <img class="img-responsive" src="images/screens/gresham_screenshot_400x211-02.png" alt="Custom WordPress Theme">
+                </a>
+              </div>
+              <div class="item">
+                <a href="#">
+                  <img class="img-responsive" src="images/screens/gresham_screenshot_400x211-03.png" alt="Custom WordPress Theme">
+                </a>
+              </div>
+          </div>
+        </div>
+      </div>
+
+      </div>
+    </div>
+  </section>  
   <footer class="row">
         <p><small>Copyright <a href="#">&copy; Richard Pastenes</a></small></p>
 
