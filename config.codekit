@@ -1126,6 +1126,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/screens\/gresham_screenshot_400x220-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128401,
+		"inputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x220-01.png",
+		"outputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x220-01.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/screens\/gresham_screenshot_400x220-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105465,
+		"inputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x220-02.png",
+		"outputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x220-02.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/screens\/pastenes_screenshot_400x211-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1203,6 +1223,46 @@
 		"initialSize": 65087,
 		"inputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x211-04.png",
 		"outputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x211-04.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/screens\/weis_screenshot_400x220-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101932,
+		"inputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x220-01.png",
+		"outputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x220-01.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/screens\/weis_screenshot_400x220-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39776,
+		"inputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x220-02.png",
+		"outputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x220-02.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/screens\/weis_screenshot_400x220-03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71854,
+		"inputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x220-03.png",
+		"outputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x220-03.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/screens\/weis_screenshot_400x220-04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68384,
+		"inputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x220-04.png",
+		"outputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x220-04.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},

@@ -51,13 +51,13 @@
       <div class="row">
         <div class="col-xs-12 col-md-4">
           <a href="#item1" class="thumbnail">
-            <img src="images/screens/weis_screenshot_400x211-01.png" alt="Health insurance web site">
+            <img src="images/screens/weis_screenshot_400x220-01.png" alt="Health insurance web site">
           </a>
         </div>
 
         <div class="col-xs-12 col-md-4">
           <a href="#item2" class="thumbnail">
-            <img src="images/screens/gresham_screenshot_400x211-01.png" alt="Custom WordPress Theme">
+            <img src="images/screens/gresham_screenshot_400x220-01.png" alt="Custom WordPress Theme">
           </a>
         </div>
 
@@ -94,17 +94,17 @@
             <div class="carousel-inner">
               <div class="item active">
                 <a href="#">
-                  <img class="img-responsive" src="images/screens/weis_screenshot_400x211-01.png" alt="Health insurance web site">
+                  <img class="img-responsive" src="images/screens/weis_screenshot_400x220-01.png" alt="Health insurance web site">
                 </a>
               </div>
               <div class="item">
                 <a href="#">
-                  <img class="img-responsive" src="images/screens/weis_screenshot_400x211-02.png" alt="Health insurance web site">
+                  <img class="img-responsive" src="images/screens/weis_screenshot_400x220-02.png" alt="Health insurance web site">
                 </a>
               </div>
               <div class="item">
                 <a href="#">
-                  <img class="img-responsive" src="images/screens/weis_screenshot_400x211-03.png" alt="Health insurance web site">
+                  <img class="img-responsive" src="images/screens/weis_screenshot_400x220-03.png" alt="Health insurance web site">
                 </a>
               </div>
           </div>
@@ -157,17 +157,17 @@
             <div class="carousel-inner">
               <div class="item active">
                 <a href="#">
-                  <img class="img-responsive" src="images/screens/gresham_screenshot_400x211-01.png" alt="Custom WordPress Theme">
+                  <img class="img-responsive" src="images/screens/gresham_screenshot_400x220-01.png" alt="Custom WordPress Theme">
                 </a>
               </div>
               <div class="item">
                 <a href="#">
-                  <img class="img-responsive" src="images/screens/gresham_screenshot_400x211-02.png" alt="Custom WordPress Theme">
+                  <img class="img-responsive" src="images/screens/gresham_screenshot_400x220-02.png" alt="Custom WordPress Theme">
                 </a>
               </div>
               <div class="item">
                 <a href="#">
-                  <img class="img-responsive" src="images/screens/gresham_screenshot_400x211-03.png" alt="Custom WordPress Theme">
+                  <img class="img-responsive" src="images/screens/gresham_screenshot_400x220-03.png" alt="Custom WordPress Theme">
                 </a>
               </div>
           </div>
