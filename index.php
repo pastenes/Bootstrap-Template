@@ -9,6 +9,24 @@
 
   </head>
   <body>
+  <!-- Contact form -->
+  <div class="modal fade" id="contact" tabindex="-1" role="dialog" aria-labelledby="contactForm" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h4 class="modal-title" id="myModalLabel">Shoot me an email</h4>
+        </div>
+        <div class="modal-body">
+          ...
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Send</button>
+        </div>
+      </div>
+    </div>
+  </div>
   <!-- section 1 - nav -->
   <div class="content row">
     <div class="col-lg-12">
@@ -27,7 +45,7 @@
           
             <ul class="nav navbar-nav pull-right">
               <li class="active"><a href="index.php">Home</a></li>
-              <li><a href="#">Contact</a></li>
+              <li><a href="#" data-toggle="modal" data-target="#contact">Contact</a></li>
             </ul> <!-- nav -->
           </div> <!-- collapse -->
         </div> <!-- navbar -->
