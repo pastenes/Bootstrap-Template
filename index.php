@@ -6,7 +6,7 @@
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,300,200,100' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.min.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
-
+    <script src="_/js/jquery-2.1.0.min.js"></script>
   </head>
   <body>
   <!-- Contact form -->
@@ -18,11 +18,32 @@
           <h4 class="modal-title" id="myModalLabel">Shoot me an email</h4>
         </div>
         <div class="modal-body">
-          ...
+
+          <!-- Form fields -->
+          <form class="contact" name="contact">
+          <div class="row">
+          <div class="form-group">
+              <div class="col-xs-12 col-md-6">
+                <input type="text" name="name" class="form-control" placeholder="Your name">
+              </div>
+              <div class="col-xs-12 col-md-6">
+                <input type="email" name="email" class="form-control" placeholder="Your email">
+              </div>
+            </div>
+          </div>
+          <br />
+          <div class="row">
+            <div class="col-xs-12">
+              <textarea class="form-control" name="message" rows="3" placeholder="Your message"></textarea>
+            </div>
+          </div>
+          </form>
+          <div id="thanks"></div>
+          <!-- End form fields -->
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          <button type="button" class="btn btn-primary">Send</button>
+          <button type="submit" id="submit" class="btn btn-primary">Send</button>
         </div>
       </div>
     </div>
@@ -44,7 +65,7 @@
           <div class="collapse navbar-collapse" id="collapse">
           
             <ul class="nav navbar-nav pull-right">
-              <li class="active"><a href="index.php">Home</a></li>
+              <li><a href="http://pastenes.com/resume/">Resume</a></li>
               <li><a href="#" data-toggle="modal" data-target="#contact">Contact</a></li>
             </ul> <!-- nav -->
           </div> <!-- collapse -->
@@ -250,7 +271,6 @@
   </footer>
 
     <script src="_/js/respond.js"></script>
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="_/js/bootstrap.min.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>

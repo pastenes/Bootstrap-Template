@@ -1,5 +1,4 @@
 // Parallax effect
-
 $(document).ready(function(){
    // cache the window object
    $window = $(window);
@@ -60,4 +59,23 @@ $(document).ready(function() {
       
       $('html, body').animate({scrollTop: 0}, 300);
     })
-})
+});
+
+// Contact form submit
+      $(document).ready(function () {
+    $("button#submit").click(function(){
+        $.ajax({
+            type: "POST",
+            url: "_/php/contact.php", //process to mail
+            data: $('form.contact').serialize(),
+            success: function(msg){
+              console.log('yup');
+                $("#thanks").html(msg) //hide button and show thank you
+                $(".modal-footer #submit").hide(); //hide popup  
+            },
+            error: function(){
+                alert("failure");
+            }
+        });
+    });
+});

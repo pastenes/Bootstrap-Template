@@ -956,6 +956,16 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_\/js\/jqBootstrapValidation.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/js\/jqBootstrapValidation.js",
+		"outputAbbreviatedPath": "\/_\/js\/min\/jqBootstrapValidation-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_\/js\/jquery.cycle.lite.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -986,6 +996,14 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_\/php\/contact.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/php\/contact.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
 	"\/images\/assets\/pastenes-logo-100x50.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -993,6 +1011,46 @@
 		"initialSize": 3347,
 		"inputAbbreviatedPath": "\/images\/assets\/pastenes-logo-100x50.png",
 		"outputAbbreviatedPath": "\/images\/assets\/pastenes-logo-100x50.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/backgrounds\/code-background-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 436167,
+		"inputAbbreviatedPath": "\/images\/backgrounds\/code-background-01.jpg",
+		"outputAbbreviatedPath": "\/images\/backgrounds\/code-background-01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/backgrounds\/code-background-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 411887,
+		"inputAbbreviatedPath": "\/images\/backgrounds\/code-background-02.jpg",
+		"outputAbbreviatedPath": "\/images\/backgrounds\/code-background-02.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/backgrounds\/code-background-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245053,
+		"inputAbbreviatedPath": "\/images\/backgrounds\/code-background-03.jpg",
+		"outputAbbreviatedPath": "\/images\/backgrounds\/code-background-03.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/backgrounds\/code-background-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 283559,
+		"inputAbbreviatedPath": "\/images\/backgrounds\/code-background-04.jpg",
+		"outputAbbreviatedPath": "\/images\/backgrounds\/code-background-04.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1086,46 +1144,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/screens\/gresham_screenshot_400x211-01.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 122137,
-		"inputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x211-01.png",
-		"outputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x211-01.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/screens\/gresham_screenshot_400x211-02.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 100709,
-		"inputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x211-02.png",
-		"outputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x211-02.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/screens\/gresham_screenshot_400x211-03.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 122971,
-		"inputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x211-03.png",
-		"outputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x211-03.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/screens\/gresham_screenshot_400x211-04.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 107606,
-		"inputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x211-04.png",
-		"outputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x211-04.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/screens\/gresham_screenshot_400x220-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1143,6 +1161,26 @@
 		"initialSize": 105465,
 		"inputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x220-02.png",
 		"outputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x220-02.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/screens\/gresham_screenshot_400x220-03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129176,
+		"inputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x220-03.png",
+		"outputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x220-03.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/screens\/gresham_screenshot_400x220-04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113350,
+		"inputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x220-04.png",
+		"outputAbbreviatedPath": "\/images\/screens\/gresham_screenshot_400x220-04.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1183,46 +1221,6 @@
 		"initialSize": 19429,
 		"inputAbbreviatedPath": "\/images\/screens\/pastenes_screenshot_400x211-04.png",
 		"outputAbbreviatedPath": "\/images\/screens\/pastenes_screenshot_400x211-04.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/screens\/weis_screenshot_400x211-01.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 96588,
-		"inputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x211-01.png",
-		"outputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x211-01.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/screens\/weis_screenshot_400x211-02.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 39048,
-		"inputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x211-02.png",
-		"outputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x211-02.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/screens\/weis_screenshot_400x211-03.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 67936,
-		"inputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x211-03.png",
-		"outputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x211-03.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/screens\/weis_screenshot_400x211-04.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 65087,
-		"inputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x211-04.png",
-		"outputAbbreviatedPath": "\/images\/screens\/weis_screenshot_400x211-04.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
