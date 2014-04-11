@@ -93,17 +93,17 @@
               </ol>
             <div class="carousel-inner">
               <div class="item active">
-                <a href="#">
+                <a href="http://weisandassociates.com/" target="_blank">
                   <img class="img-responsive" src="images/screens/weis_screenshot_400x220-01.png" alt="Health insurance web site">
                 </a>
               </div>
               <div class="item">
-                <a href="#">
+                <a href="http://weisandassociates.com/" target="_blank">
                   <img class="img-responsive" src="images/screens/weis_screenshot_400x220-02.png" alt="Health insurance web site">
                 </a>
               </div>
               <div class="item">
-                <a href="#">
+                <a href="http://weisandassociates.com/" target="_blank">
                   <img class="img-responsive" src="images/screens/weis_screenshot_400x220-03.png" alt="Health insurance web site">
                 </a>
               </div>
@@ -112,13 +112,10 @@
       </div>
 
         <div class="col-xs-12 col-md-6">
-          <h3>Portfolio Item 1</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <h3>Custom WordPress Theme</h3>
+          <p>WordPress theme handcoded entirely from scratch using HTML, CSS, and JavaScript pugins for the home page slider.</p>
+          <p>The theme design was provided in a PSD file from which I obtained all the graphic assets. Then coded the HTML structure, style it with CSS and added the slider using JavaScript.</p>
+          <p>The last step was to convert the plain HTML to a WordPress theme using PHP, the WordPress function reference in the WordPress codex site and custom fields plugin.</p>
         </div>
       </div>
     </div>
@@ -138,13 +135,10 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-12 col-md-6">
-          <h3>Portfolio Item 2</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <h3>Custom WordPress Theme</h3>
+          <p>Custom WordPress site built 100% from scratch, hand coded search and filters functionality to sort posts by date, last name or custom date field. (sort functionality removed (commented out) in final version of the site.</p>
+          <p>Created a custom home page widget that only shows furure events with conditional field display and custom fields that match the website purposes.</p>
+          <p>The site uses custom WordPress fields, WordPress advanced php posts queries and functions.</p>
         </div>
 
         <div class="col-xs-12 col-md-6">
@@ -156,17 +150,17 @@
               </ol>
             <div class="carousel-inner">
               <div class="item active">
-                <a href="#">
+                <a href="http://greshamfuneral.com/" target="_blank">
                   <img class="img-responsive" src="images/screens/gresham_screenshot_400x220-01.png" alt="Custom WordPress Theme">
                 </a>
               </div>
               <div class="item">
-                <a href="#">
+                <a href="http://greshamfuneral.com/" target="_blank">
                   <img class="img-responsive" src="images/screens/gresham_screenshot_400x220-02.png" alt="Custom WordPress Theme">
                 </a>
               </div>
               <div class="item">
-                <a href="#">
+                <a href="http://greshamfuneral.com/" target="_blank">
                   <img class="img-responsive" src="images/screens/gresham_screenshot_400x220-03.png" alt="Custom WordPress Theme">
                 </a>
               </div>
@@ -219,13 +213,12 @@
       </div>
 
         <div class="col-xs-12 col-md-6">
-          <h3>Portfolio Item 3</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <h3>This Portfolio Site</h3>
+          <p>I build this site using a Twitter Boostrap 3 template I created. The template has a more organized file structure that includes all the Bootstrap files and assets plus separated JavaScipt and LESS files that are minified using <a href="https://incident57.com/codekit/" target="_blank">CodeKit</a>. This template is available in <a href="https://github.com/pastenes/Bootstrap-Template" target="_blank">this GitHub repository</a>.</p>
+
+          <p> I started coding the site not before planning the responsive layout using the <a href="http://balsamiq.com/products/mockups/" target="_blank">Balsamiq Mockups app</a>. The coding process is thoroughly documented in <a href="https://github.com/pastenes/Bootstrap-Template/tree/portfoliov3" target="_blank">this GitHub branch</a>.</p>
+          <p>I also used a combination of CSS, HTML5 and jQuery to add a smooth autoscroll affect, Parallax effect and back to top button.</p>
+          <p>All images and photography are also done by me, processed in Aperture and edited in Photoshop.</p>
         </div>
 
       </div>
