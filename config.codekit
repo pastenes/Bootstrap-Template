@@ -956,22 +956,12 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_\/js\/jqBootstrapValidation.js": {
+	"\/_\/js\/jquery-2.1.0.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/js\/jqBootstrapValidation.js",
-		"outputAbbreviatedPath": "\/_\/js\/min\/jqBootstrapValidation-ck.js",
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_\/js\/jquery.cycle.lite.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/js\/jquery.cycle.lite.js",
-		"outputAbbreviatedPath": "\/_\/js\/min\/jquery.cycle.lite-ck.js",
+		"inputAbbreviatedPath": "\/_\/js\/jquery-2.1.0.min.js",
+		"outputAbbreviatedPath": "\/_\/js\/min\/jquery-2.1.0.min-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -1221,6 +1211,36 @@
 		"initialSize": 19429,
 		"inputAbbreviatedPath": "\/images\/screens\/pastenes_screenshot_400x211-04.png",
 		"outputAbbreviatedPath": "\/images\/screens\/pastenes_screenshot_400x211-04.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/screens\/pastenes_screenshot_400x220-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80724,
+		"inputAbbreviatedPath": "\/images\/screens\/pastenes_screenshot_400x220-01.png",
+		"outputAbbreviatedPath": "\/images\/screens\/pastenes_screenshot_400x220-01.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/screens\/pastenes_screenshot_400x220-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35055,
+		"inputAbbreviatedPath": "\/images\/screens\/pastenes_screenshot_400x220-02.png",
+		"outputAbbreviatedPath": "\/images\/screens\/pastenes_screenshot_400x220-02.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/screens\/pastenes_screenshot_400x220-03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55052,
+		"inputAbbreviatedPath": "\/images\/screens\/pastenes_screenshot_400x220-03.png",
+		"outputAbbreviatedPath": "\/images\/screens\/pastenes_screenshot_400x220-03.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},

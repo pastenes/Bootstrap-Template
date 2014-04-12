@@ -102,7 +102,7 @@
 
         <div class="col-xs-12 col-md-4">
           <a href="#item3" class="thumbnail">
-            <img src="images/screens/pastenes_screenshot_400x211-01.png" alt="This site's description">
+            <img src="images/screens/pastenes_screenshot_400x220-01.png" alt="This site's description">
           </a>
         </div>
 
@@ -234,17 +234,17 @@
             <div class="carousel-inner">
               <div class="item active">
                 <a href="#">
-                  <img class="img-responsive" src="images/screens/pastenes_screenshot_400x211-01.png" alt="This site's screenshot">
+                  <img class="img-responsive" src="images/screens/pastenes_screenshot_400x220-01.png" alt="This site's screenshot">
                 </a>
               </div>
               <div class="item">
                 <a href="#">
-                  <img class="img-responsive" src="images/screens/pastenes_screenshot_400x211-02.png" alt="This site's screenshot">
+                  <img class="img-responsive" src="images/screens/pastenes_screenshot_400x220-02.png" alt="This site's screenshot">
                 </a>
               </div>
               <div class="item">
                 <a href="#">
-                  <img class="img-responsive" src="images/screens/pastenes_screenshot_400x211-03.png" alt="This site's screenshot">
+                  <img class="img-responsive" src="images/screens/pastenes_screenshot_400x220-03.png" alt="This site's screenshot">
                 </a>
               </div>
           </div>
@@ -256,7 +256,7 @@
           <p>I build this site using a Twitter Boostrap 3 template I created. The template has a more organized file structure that includes all the Bootstrap files and assets plus separated JavaScipt and LESS files that are minified using <a href="https://incident57.com/codekit/" target="_blank">CodeKit</a>. This template is available in <a href="https://github.com/pastenes/Bootstrap-Template" target="_blank">this GitHub repository</a>.</p>
 
           <p> I started coding the site not before planning the responsive layout using the <a href="http://balsamiq.com/products/mockups/" target="_blank">Balsamiq Mockups app</a>. The coding process is thoroughly documented in <a href="https://github.com/pastenes/Bootstrap-Template/tree/portfoliov3" target="_blank">this GitHub branch</a>.</p>
-          <p>I also used a combination of CSS, HTML5 and jQuery to add a smooth autoscroll affect, Parallax effect and back to top button.</p>
+          <p>I also used a combination of CSS, HTML5 and jQuery to add a smooth autoscroll effect, Parallax effect and back to top button.</p>
           <p>All images and photography are also done by me, processed in Aperture and edited in Photoshop.</p>
         </div>
 
