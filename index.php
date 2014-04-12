@@ -89,19 +89,19 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-12 col-md-4">
-          <a href="#item1" class="thumbnail">
+          <a href="#item1" class="thumbnail" id="portfolioItem" data-toggle="tooltip" data-placement="top" title="Click on any of these to see more details">
             <img src="images/screens/weis_screenshot_400x220-01.png" alt="Health insurance web site">
           </a>
         </div>
 
         <div class="col-xs-12 col-md-4">
-          <a href="#item2" class="thumbnail">
+          <a href="#item2" class="thumbnail" id="portfolioItem" data-toggle="tooltip" data-placement="top" title="Click on any of these to see more details">
             <img src="images/screens/gresham_screenshot_400x220-01.png" alt="Custom WordPress Theme">
           </a>
         </div>
 
         <div class="col-xs-12 col-md-4">
-          <a href="#item3" class="thumbnail">
+          <a href="#item3" class="thumbnail" id="portfolioItem" data-toggle="tooltip" data-placement="top" title="Click on any of these to see more details">
             <img src="images/screens/pastenes_screenshot_400x220-01.png" alt="This site's description">
           </a>
         </div>
@@ -152,7 +152,7 @@
 
         <div class="col-xs-12 col-md-6">
           <h3>Custom WordPress Theme</h3>
-          <p>WordPress theme handcoded entirely from scratch using HTML, CSS, and JavaScript pugins for the home page slider.</p>
+          <p>WordPress theme handcoded entirely from scratch using HTML, CSS, and JavaScript plugins for the home page slider.</p>
           <p>The theme design was provided in a PSD file from which I obtained all the graphic assets. Then coded the HTML structure, style it with CSS and added the slider using JavaScript.</p>
           <p>The last step was to convert the plain HTML to a WordPress theme using PHP, the WordPress function reference in the WordPress codex site and custom fields plugin.</p>
         </div>
@@ -175,7 +175,7 @@
       <div class="row">
         <div class="col-xs-12 col-md-6">
           <h3>Custom WordPress Theme</h3>
-          <p>Custom WordPress site built 100% from scratch, hand coded search and filters functionality to sort posts by date, last name or custom date field. (sort functionality removed (commented out) in final version of the site.</p>
+          <p>Custom WordPress site built 100% from scratch, hand coded search and filters functionality to sort posts by date, last name or custom date field. (sort functionality removed/commented out in final version of the site per cleint request).</p>
           <p>Created a custom home page widget that only shows furure events with conditional field display and custom fields that match the website purposes.</p>
           <p>The site uses custom WordPress fields, WordPress advanced php posts queries and functions.</p>
         </div>
@@ -265,7 +265,7 @@
   </section>  
 
   <footer class="row">
-        <p><small>Copyright <a href="#">&copy; Richard Pastenes</a></small></p>
+        <p><small>Copyright <a href="#" data-toggle="modal" data-target="#contact">&copy; Richard Pastenes</a></small></p>
 
         <a href="#" class="go-top"><span class="glyphicon glyphicon-arrow-up"></span></a>
   </footer>
@@ -273,5 +273,8 @@
     <script src="_/js/respond.js"></script>
     <script src="_/js/bootstrap.min.js"></script>
     <script src="_/js/myscript.js"></script>
+    <script>
+      $('a#portfolioItem').tooltip()
+    </script>
   </body>
 </html>
